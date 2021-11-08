@@ -1,0 +1,16 @@
+// NO B
+      
+        int sum= 0;
+        int i =0;
+
+        do{ 
+            sum+=1; 
+            i++; 
+            System.out.println(i);
+        }
+
+        while (i<99); 
+
+ // NO C
+ 
+ 
