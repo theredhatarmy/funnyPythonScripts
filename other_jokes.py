@@ -16,6 +16,7 @@ def silly_dance():
 
 def joke_teller():
     print("Knock, knock!")
+    
     time.sleep(2)
     print("Who's there?")
     time.sleep(2)
