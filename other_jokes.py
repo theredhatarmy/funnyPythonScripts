@@ -13,6 +13,7 @@ def silly_dance():
     print("(o)(o)")
     print(" \\../")
     print("  **")
+    
 
 def joke_teller():
     print("Knock, knock!")
